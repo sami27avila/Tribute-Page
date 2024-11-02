@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 25px;
+    padding-right: 10px;
+    padding-left: 10px;   
+    }
+    
+    #main{
+    background-color: #5b86a9;
+    border: 5px solid black;
+    border-radius: 8px;
+    padding-bottom: 30px;
+    padding-top: 14px;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+    }
+    
+    #title, #title-1{
+     text-shadow: 2px 2px 5px red;
+     word-spacing: 3px;
+     margin-bottom: 0;
+    }
+    
+    h1{
+      font-size: 35px;
+    }
+    
+    h3{
+      font-size: 22px;
+      padding-top: 24px;
+    }
+    
+    p, i, cite, li{
+      font-size: 17px;
+      color: white;
+      word-spacing: 3px;
+    
+    }
+    
+    #img-div{
+      background-color: d2d3d5;
+      padding: 5px;
+      border-radius: 8px;
+      padding-top: 10px;
+    }
+    
+    #image{
+        max-width: 100%;
+        display: block;
+        height: auto;
+        margin: 0 auto;   overflow-clip-margin: content-box;
+        overflow: clip;
+    }
+    
+    #img-caption{
+      display: block;
+      margin: 15px 0 5px 0;
+    }
+    
+    .tribute-text{
+      color: black;
+    }
+    
+    ul{
+      display: block;
+      max-width: 550px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+      line-height: 1.6;
+      padding-top: 30px;
+    }
+    
+    li{
+      display: list-item;
+      padding: 1px;
+    }
+    
+    b{
+      color: black;
+      text-shadow: 2px 2px 5px red;
+    }
+    
+    blockquote{
+      font-style: italic;
+      max-width: 545px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+    }
+    
+    a {
+      color:white;
+    }
+    
+    a:active{
+      color: red;
+    }
